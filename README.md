@@ -49,19 +49,19 @@
 <div align="center">
 
 ### 🏠 Dashboard Overview
-![Dashboard](./results/Screenshot%202025-09-15%20at%201.06.22%20AM.png)
+![Dashboard](./results/dashboard-overview.png)
 *Main dashboard with real-time statistics and email distribution charts*
 
 ### 📊 Email Analytics  
-![Analytics](./results/Screenshot%202025-09-15%20at%201.08.11%20AM.png)
+![Analytics](./results/analytics-view.png)
 *Advanced analytics with tag distribution and processing insights*
 
 ### 📧 Email Management
-![Email Management](./results/Screenshot%202025-09-15%20at%201.09.36%20AM.png)
+![Email Management](./results/email-management.png)
 *Comprehensive email data table with filtering and search*
 
 ### ⚙️ Settings Panel
-![Settings](./results/Screenshot%202025-09-15%20at%201.10.08%20AM.png)
+![Settings](./results/settings-panel.png)
 *User settings with profile management and preferences*
 
 </div>
