@@ -68,6 +68,11 @@
 
 ---
 
+### Demo Video
+  [▶ Watch the video on Google Drive](https://drive.google.com/file/d/13VD0IbJkpVqMg6JNPFlVV801S_Yak88y/view?usp=sharing)
+
+---
+
 ## 🚀 Quick Start
 
 ### Prerequisites
